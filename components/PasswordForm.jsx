@@ -7,7 +7,7 @@ const PasswordForm = () => {
         <h1 className="text-passwordGenerator heading">Password Genorator</h1>
       </div>
       <div>
-        Form 
+        Form goes here
       </div>
     </div>
   )
